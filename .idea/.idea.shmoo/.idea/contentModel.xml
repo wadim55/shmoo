@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\MyWork\UNITY\Unity projects\shmoo" t="IncludeRecursive">
+    <e p="C:\Users\seven\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\seven\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_shmoo.105421875.00" t="ExcludeRecursive" />
+    <e p="C:\Work\learn\WallDev\TestPRJ\shmoo" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Animator" t="Include" />
+        <e p="Audio" t="Include" />
         <e p="FieldOfView" t="Include">
           <e p="Core" t="Include">
             <e p="Scripts" t="Include">
@@ -470,11 +473,189 @@
           <e p="Prefabs" t="Include" />
         </e>
         <e p="Materials" t="Include" />
+        <e p="Prefabs" t="Include" />
+        <e p="Realistic Effects Pack" t="Include">
+          <e p="EffectDemo" t="Include" />
+          <e p="Materials" t="Include">
+            <e p="Buffs" t="Include">
+              <e p="ElectricShield" t="Include" />
+              <e p="FireForceShield" t="Include" />
+              <e p="FireParticlesExplosion" t="Include" />
+              <e p="FireShield" t="Include" />
+              <e p="ForceField" t="Include" />
+              <e p="ForceShield" t="Include" />
+              <e p="FrostShield" t="Include" />
+              <e p="GreenParticlesBuff" t="Include" />
+              <e p="GreenPortal" t="Include" />
+              <e p="HoneycombShield" t="Include" />
+              <e p="WaterBall" t="Include" />
+              <e p="WaterShield" t="Include" />
+            </e>
+            <e p="Environment" t="Include">
+              <e p="Fire" t="Include">
+                <e p="Fire1" t="Include" />
+                <e p="Fire2" t="Include" />
+                <e p="Fire3" t="Include" />
+                <e p="Fire4" t="Include" />
+              </e>
+              <e p="Portals" t="Include">
+                <e p="Portal1" t="Include" />
+                <e p="Portal2" t="Include" />
+              </e>
+            </e>
+            <e p="Projectiles" t="Include">
+              <e p="BlackFireball1" t="Include" />
+              <e p="BlueFireBall1" t="Include" />
+              <e p="BlueFireball2" t="Include" />
+              <e p="BlueFireball3" t="Include" />
+              <e p="ElectricBall1" t="Include" />
+              <e p="Fireball1" t="Include" />
+              <e p="Fireball2" t="Include" />
+              <e p="Firebolt1" t="Include" />
+              <e p="FireMeteor1" t="Include" />
+              <e p="FireMeteor2" t="Include" />
+              <e p="Frostbolt1" t="Include" />
+              <e p="FrostMeteor1" t="Include" />
+              <e p="GreenFireball1" t="Include" />
+              <e p="PurpleFireball1" t="Include" />
+            </e>
+            <e p="Scene" t="Include" />
+            <e p="Share" t="Include">
+              <e p="Particles" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+            </e>
+            <e p="Shots" t="Include">
+              <e p="Shot1" t="Include" />
+              <e p="Shot2" t="Include" />
+              <e p="Shot3" t="Include" />
+              <e p="Shot4" t="Include" />
+            </e>
+          </e>
+          <e p="Other" t="Include">
+            <e p="Anim" t="Include" />
+            <e p="Buff8" t="Include" />
+            <e p="Portal" t="Include" />
+            <e p="Robot Kyle" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Model" t="Include" />
+              <e p="Raw Mocap Data" t="Include">
+                <e p="Animations" t="Include">
+                  <e p="Idle" t="Include" />
+                </e>
+              </e>
+              <e p="Textures" t="Include" />
+            </e>
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Buffs" t="Include">
+              <e p="mobile" t="Include">
+                <e p="OptimizedDistortion" t="Include" />
+              </e>
+            </e>
+            <e p="Environment" t="Include">
+              <e p="Fire" t="Include">
+                <e p="mobile" t="Include" />
+              </e>
+              <e p="Portals" t="Include">
+                <e p="mobile" t="Include">
+                  <e p="OptimizedDistortion" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Projectiles" t="Include">
+              <e p="mobile" t="Include" />
+            </e>
+            <e p="Shots" t="Include">
+              <e p="mobile" t="Include" />
+            </e>
+          </e>
+          <e p="Readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Demo" t="Include">
+              <e p="MyGui.cs" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Balls" t="Include">
+                <e p="AddMaterialOnHit.cs" t="Include" />
+                <e p="LazyLoad.cs" t="Include" />
+                <e p="ProjectileCollisionBehaviour.cs" t="Include" />
+              </e>
+              <e p="Buffs" t="Include">
+                <e p="ShieldCollisionBehaviour.cs" t="Include" />
+                <e p="WaterUvAnimation.cs" t="Include" />
+                <e p="WaterWaveUvAnimation.cs" t="Include" />
+              </e>
+              <e p="Shots" t="Include">
+                <e p="LineRendererBehaviour.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Share" t="Include">
+              <e p="CollisionActiveBehaviour.cs" t="Include" />
+              <e p="DeadTime.cs" t="Include" />
+              <e p="DistortionMobile.cs" t="Include" />
+              <e p="EffectSettings.cs" t="Include" />
+              <e p="FadeInOutLight.cs" t="Include" />
+              <e p="FadeInOutParticles.cs" t="Include" />
+              <e p="FadeInOutScale.cs" t="Include" />
+              <e p="FadeInOutShaderColor.cs" t="Include" />
+              <e p="FadeInOutShaderFloat.cs" t="Include" />
+              <e p="FadeInOutStatus.cs" t="Include" />
+              <e p="FixShaderQueue.cs" t="Include" />
+              <e p="OnStartSendCollision.cs" t="Include" />
+              <e p="QueueUvAnimation.cs" t="Include" />
+              <e p="RandomRotate.cs" t="Include" />
+              <e p="UVTextureAnimator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="AlphaBlended.shader" t="Include" />
+            <e p="AlphaBlendedNoSmooth.shader" t="Include" />
+            <e p="DiffuseRim.shader" t="Include" />
+            <e p="Distortion" t="Include">
+              <e p="DistortionCullBack.shader" t="Include" />
+              <e p="DistortionCullOff.shader" t="Include" />
+              <e p="DistortionParticlesCutout.shader" t="Include" />
+              <e p="Free" t="Include">
+                <e p="FreeDistortionCullBack.shader" t="Include" />
+                <e p="FreeDistortionCullOff.shader" t="Include" />
+                <e p="FreeDistortionCutOut.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Explosion.shader" t="Include" />
+            <e p="GlowAdditive.shader" t="Include" />
+            <e p="GlowAdditiveSimple.shader" t="Include" />
+            <e p="GlowAdditiveTwoColor.shader" t="Include" />
+            <e p="Matrix" t="Include">
+              <e p="Additive.shader" t="Include" />
+              <e p="GlowAdditive.shader" t="Include" />
+              <e p="GlowAdditiveSimple.shader" t="Include" />
+            </e>
+            <e p="mobile" t="Include">
+              <e p="Distortion" t="Include">
+                <e p="DistortionCullBack.shader" t="Include" />
+                <e p="DistortionCullOff.shader" t="Include" />
+                <e p="DistortionParticlesCutout.shader" t="Include" />
+              </e>
+              <e p="Water.shader" t="Include" />
+            </e>
+            <e p="ParticleAdd.shader" t="Include" />
+            <e p="ParticleAddNoSmooth.shader" t="Include" />
+            <e p="Particles.shader" t="Include" />
+            <e p="Rim.shader" t="Include" />
+            <e p="Water.shader" t="Include" />
+            <e p="WaterFree.shader" t="Include" />
+          </e>
+        </e>
         <e p="Scenes" t="Include">
           <e p="SampleScene" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+          <e p="EnemyTakeDamage.cs" t="Include" />
+          <e p="EVENT.cs" t="Include" />
           <e p="Robot.cs" t="Include" />
+          <e p="Shooter.cs" t="Include" />
         </e>
       </e>
       <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
@@ -484,7 +665,5 @@
       <e p="shmoo.sln" t="IncludeFlat" />
       <e p="Temp\Bin" t="ExcludeRecursive" />
     </e>
-    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_shmoo.476177720.00" t="ExcludeRecursive" />
   </component>
 </project>
